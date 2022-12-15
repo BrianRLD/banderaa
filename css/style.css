@@ -1,0 +1,42 @@
+.blue1{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+    top: 0px;
+}
+
+.red1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 1430px;
+    top: 110px;
+}
+
+.blue2{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 110px;
+    right: 1320px;
+    
+}
+.red2{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    right: 1320px;
+}
+
+.escudo{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    right: 1417px;
+    top: 100px;
+}
